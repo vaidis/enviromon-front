@@ -1,17 +1,4 @@
-# enviromon-front
-Real time temperature and humidity monitor
-
-# enviromon-front
-Real time temperature and humidity monitor
-
-```
-git clone https://github.com/vaidis/enviromon-front.git
-cd enviromon-front
-npm install 
-npm start
-```
-
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

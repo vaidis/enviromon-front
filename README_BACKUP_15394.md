@@ -1,17 +1,5 @@
-# enviromon-front
-Real time temperature and humidity monitor
-
-# enviromon-front
-Real time temperature and humidity monitor
-
-```
-git clone https://github.com/vaidis/enviromon-front.git
-cd enviromon-front
-npm install 
-npm start
-```
-
-
+<<<<<<< HEAD
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -79,3 +67,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# enviromon-front
+Real time temperature and humidity monitor
+
+```
+git clone https://github.com/vaidis/enviromon-front.git
+cd enviromon-front
+npm install 
+npm start
+```
+>>>>>>> 1087c375aba3d433160f947bcde4f4aa4d67bd96
