@@ -1,8 +1,8 @@
 # enviromon-front
 Real time temperature and humidity monitor
 
-# enviromon-front
-Real time temperature and humidity monitor
+
+![Alt text](https://github.com/vaidis/enviromon-front/blob/master/screenshot/enviromon.png?raw=true)
 
 ```
 git clone https://github.com/vaidis/enviromon-front.git
