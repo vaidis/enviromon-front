@@ -2,7 +2,7 @@
 Real time temperature and humidity monitor
 
 
-![Alt text](https://github.com/vaidis/enviromon-front/blob/master/screenshot/enviromon.png?raw=true)
+![Alt text](https://github.com/vaidis/weather-app/blob/master/weather-app.png?raw=true)
 
 ```
 git clone https://github.com/vaidis/enviromon-front.git
